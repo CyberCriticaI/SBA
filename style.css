@@ -1,0 +1,35 @@
+body {
+    background-color: #0d1117;
+}
+/* parent box of NavBar */
+.parentBox{
+    /* border: solid whitesmoke; */
+    height: fit-content;
+}
+.navBar{
+    border: solid white; 
+    border-width: 0.1px;
+    height:fit-content;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+#NavigationBar{
+    height: fit-content;
+}
+.jjkimage{
+    /* border: solid red; */
+    width: 100%;
+    display: flex;
+}
+.jjk{
+    height: 79vh;
+    border: solid white;
+    border-width: 0.1px;
+}
+.League{
+    border: solid white;
+    border-width: 3px;
+    height: 749px;
+    width: 100%;
+}
